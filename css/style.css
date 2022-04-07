@@ -1,0 +1,49 @@
+.layout{
+background-color: #dddddd;
+padding: 20px 40px 60px;
+}
+.logo{
+	height: 70px;
+    background-color: #f16775;
+    margin-bottom: 5px;
+    line-height: 60px;
+    text-align: center;
+	}
+.navigation{
+	height: 40px;
+    background-color: #f16775;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.header{
+	height: 100px;
+	background-color:#f16775;
+	text-align: center;
+	margin-bottom: 10px;
+	line-height: 80px;
+}
+.footer{
+	height:40px;
+	background-color:#f16775;
+    text-align: center;
+}
+.container{
+	overflow: hidden;
+}
+.sidebar{
+	height: 400px;
+	width: 25%;
+	background-color:#f16775;
+	float: left;
+	text-align: center;
+	line-height:300px;
+
+}
+.bodyarea{
+	height: 400px;
+	width: 65%;
+	background-color:#f16775;
+    text-align: center;
+    line-height:300px;
+    float: right;
+}
